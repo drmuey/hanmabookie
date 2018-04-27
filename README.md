@@ -11,6 +11,7 @@ clearly a WiP ;)
 - book/
     - …
 - meta/
+    - media/ - …
     - front.png
     - spine.png (optional)
     - back.png
